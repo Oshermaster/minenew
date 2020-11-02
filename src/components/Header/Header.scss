@@ -1,0 +1,23 @@
+header {
+  height: 38px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  font-size: 22px;
+  color: white;
+
+  span,
+  a {
+    flex-grow: 1;
+    text-align: right;
+  }
+
+  span {
+    margin: 0 0 0 38px;
+  }
+
+  a {
+    padding: 0 16px 0 0;
+  }
+}

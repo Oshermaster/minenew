@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "react-app"
+  ],
+  "rules": {
+    "new-parens": "off",
+    "react-hooks/exhaustive-deps": "off",
+    "default-case": "off"
+  }
+}
